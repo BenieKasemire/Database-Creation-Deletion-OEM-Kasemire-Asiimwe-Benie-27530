@@ -1,6 +1,8 @@
 # Assignment II: Database Creation, Deletion & OEM
 
 Name: Kasemire Asiimwe Benie
+
+
 ID: 27530
 
 ---
@@ -77,7 +79,7 @@ The OEM dashboard displays the database environment and user account information
 
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20134929.png) 
+  ![Alt Text](https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/2514deeca5797cd38d179b4b3ad21f6b9244511c/screenshot7/task%203%20%20a.jpg)
 
 
   ![Alt Text](https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/task3.png) 
