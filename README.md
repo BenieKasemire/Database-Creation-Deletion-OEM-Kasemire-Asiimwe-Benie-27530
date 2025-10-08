@@ -9,7 +9,7 @@ ID: 27530
 
 ## Overview
 
-This assignment focuses on performing essential database administration tasks in Oracle, including creating and deleting Pluggable Databases (PDBs) and configuring Oracle Enterprise Manager (OEM). The tasks demonstrate knowledge of database setup, management, and monitoring through OEM.
+This assignment centers on carrying out key database administration operations in Oracle, such as creating and removing Pluggable Databases (PDBs) and setting up Oracle Enterprise Manager (OEM). It showcases the ability to configure, manage, and monitor databases using OEM tools.
 
 ---
 
@@ -74,7 +74,7 @@ The OEM dashboard displays the database environment and user account information
 
 
 
-### After navigating to this following OEM for signing in Username used is SYSTEM and Password used is BENIE
+#### After navigating to this following OEM for signing in Username used is SYSTEM and Password used is BENIE
 
 
 
