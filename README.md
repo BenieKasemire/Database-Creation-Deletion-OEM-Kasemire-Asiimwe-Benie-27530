@@ -21,20 +21,21 @@ A new Pluggable Database (PDB) was created using the following format:
 
 
 
-![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/9305e919d43c7438776ab57eb2499a3310f9fc6a/screenshots/Screenshot%202025-10-04%20131355.png)
+![Alt Text](https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/task1.png)
 
 
 
 
 
-![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/9305e919d43c7438776ab57eb2499a3310f9fc6a/screenshots/Screenshot%202025-10-04%20131805.png)
+
+![Alt Text](https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/task%201%20(2).png) 
 
 
 
- ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/9305e919d43c7438776ab57eb2499a3310f9fc6a/screenshots/Screenshot%202025-10-04%20132018.png)
+
+ 
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/9305e919d43c7438776ab57eb2499a3310f9fc6a/screenshots/Screenshot%202025-10-04%20132221.png)
 
 
 ---
@@ -50,17 +51,15 @@ After successful creation, this PDB was deleted to demonstrate database deletion
 
 - PDB Creation
 
-     ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/72b7e16ad67c047c26771149504fe941abede320/screenshots/Screenshot%202025-10-04%20133021.png)
+     ![Alt Text]( https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/task%202.png)
 
 
-
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/72b7e16ad67c047c26771149504fe941abede320/screenshots/Screenshot%202025-10-04%20133103.png)
 
 
 - PDB Deletion
 
   
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/72b7e16ad67c047c26771149504fe941abede320/screenshots/Screenshot%202025-10-04%20133158.png) 
+  ![Alt Text](https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/task2(2).png)
 
 
 
@@ -71,9 +70,9 @@ After successful creation, this PDB was deleted to demonstrate database deletion
 Oracle Enterprise Manager (OEM) was configured successfully to monitor and manage the created PDBs.  
 The OEM dashboard displays the database environment and user account information.
 
-   ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20142955.png) 
 
-### After navigating to this following OEM for signing in Username used is SYSTEM and Password used is Giuly123
+
+### After navigating to this following OEM for signing in Username used is SYSTEM and Password used is BENIE
 
 
 
@@ -81,19 +80,19 @@ The OEM dashboard displays the database environment and user account information
   ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20134929.png) 
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20141656.png) 
+  ![Alt Text](https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/task3.png) 
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20142210.png) 
+  ![Alt Text]( https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/task3(2).png) 
 
 
 
 ## Connecting to sqldeveloper
 
-   ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20162834.png) 
+   ![Alt Text]( https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/Screenshot%202025-10-08%20061753.png) 
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-07%20130605.png)
+  ![Alt Text]( https://github.com/BenieKasemire/Database-Creation-Deletion-OEM-Kasemire-Asiimwe-Benie-27530/blob/5c688e12ad4b2d8c70c031d54aa97fe6861813a1/screenshot7/Screenshot%202025-10-08%20061939.png)
 
 
 ---
