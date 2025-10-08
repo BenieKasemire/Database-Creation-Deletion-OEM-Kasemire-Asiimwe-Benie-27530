@@ -101,18 +101,18 @@ The OEM dashboard displays the database environment and user account information
 
 ## Notes & Challenges
 
-During the assignment, the following challenges were encountered:
+Notes & Challenges
 
-- Difficulty connecting to the container database (CDB) while creating PDBs.  
-  Solution: Ensured proper connection as SYSDBA and verified the paths used in the FILE_NAME_CONVERT clause.
-  
-- Delays in starting the Oracle Enterprise Manager service.  
-  Solution: Restarted the Oracle listener and ensured the Oracle Management Service (OMS) was running.
+Throughout the assignment, several challenges were faced:
 
-All issues were resolved, and the tasks were completed successfully.
+Issue connecting to the Container Database (CDB) during PDB creation.
+Resolution: Verified SYSDBA privileges and confirmed correct directory paths in the FILE_NAME_CONVERT clause.
 
----
+Delays in launching Oracle Enterprise Manager (OEM).
+Resolution: Restarted the Oracle listener and confirmed that the Oracle Management Service (OMS) was active.
+
+All problems were successfully resolved, allowing smooth completion of the tasks.
 
 ## Conclusion
 
-The assignment provided hands-on experience with Oracle database creation, deletion, and management through OEM. It strengthened understanding of multitenant architecture and administrative operations essential for real-world database environments.
+This assignment offered practical experience in creating, deleting, and managing Oracle databases using OEM. It enhanced understanding of multitenant database architecture and reinforced essential administrative skills applicable in real-world database management scenarios.
